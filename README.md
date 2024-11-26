@@ -1,0 +1,5 @@
+In this work the data tidying techniques will be used and analysed on the example of a Titanic dataset for survival analysis.
+
+The objective is to prepare the raw data for the end usage: analysis of the data and creating a model that will be able to predict which passengers had more survival chances at the Titanic shipwreck. We will prepare the data for the indented purpose using data tidying that undergoes several steps from observation of the raw data to the implementing of multiple tidying techniques and finally comparing the result with the objectives. 
+
+We will start with the inspection of various aspects of the raw data. This will help us to set the objectives for the desired data quality as the next step and analyse it with regards of the given research question (survival prediction model). Various data structuring methods will be applied to bring the data in a desired form. Data cleansing methods will then be necessary to detect duplicates, incomplete data and outliers and handle them. We will finish with the overview and final checkup whether all of the requirements of the targeted data quality were fulfilled.
